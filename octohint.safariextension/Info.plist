@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>pd4d10</string>
 	<key>Builder Version</key>
-	<string>13604.3.5</string>
+	<string>13605.1.15.2</string>
 	<key>CFBundleDisplayName</key>
 	<string>Octohint</string>
 	<key>CFBundleIdentifier</key>
@@ -35,7 +35,7 @@
 	<key>Description</key>
 	<string>IntelliSense hint for GitHub</string>
 	<key>DeveloperIdentifier</key>
-	<string>0000000000</string>
+	<string>3493UDPWAK</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
 	<key>Permissions</key>

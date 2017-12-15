@@ -16,7 +16,7 @@ abstract class BaseService {
     }
 
     // If code has tab, try to get editorconfig's intent_size
-    let tabSize = 8
+    let tabSize = 4
     // TODO: Use editorconfig parse
     if (editorConfigUrl) {
       const r1 = await fetch(editorConfigUrl, { credentials: 'same-origin' })
